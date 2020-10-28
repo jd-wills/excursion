@@ -1,3 +1,5 @@
+/* General styles for the page */
+
 body {
     background-color: black;
     text-align: center;
@@ -5,16 +7,19 @@ body {
     color: white;
 }
 
+/* Header Styles */
+
 .header {
     font-weight: normal;
     font-size: 50px;
-    
 }
 
 .link {
     color: aquamarine;
     font-size: 16px;
 }
+
+/* Main styles */
 
 h2 {
     font-weight: 300;
@@ -25,5 +30,13 @@ h2 {
 h4 {
     font-size: 21px;
     color: gray;
+}
+
+/* Footer styles */
+
+footer {
+    text-align: right;
+    color: gray;
+    margin: 20px;
 }
 
